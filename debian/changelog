@@ -1,3 +1,10 @@
+nginx (1.9.6-2+lc0) unstable; urgency=medium
+
+  * Brought in lua-upstream-nginx-module and created nginx-kahu, per
+    Zach's tweaks.
+
+ -- Alexander Guy <alexander.guy@lightcrest.com>  Mon, 25 Jan 2016 16:47:11 -0800
+
 nginx (1.9.6-2) unstable; urgency=medium
 
   [ Christos Trochalakis]
